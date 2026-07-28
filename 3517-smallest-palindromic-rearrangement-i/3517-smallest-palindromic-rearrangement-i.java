@@ -7,23 +7,24 @@ class Solution {
             freq[ch - 'a']++;
         }
 
-        StringBuilder left = new StringBuilder();
-        StringBuilder mid = new StringBuilder();
+        char[] ans = new char[s.length()];
 
+        int left = 0;
+        int right = s.length() - 1;
 
         for (int i = 0; i < 26; i++) {
 
-            for (int j = 0; j < freq[i] / 2; j++) {
-                left.append((char) (i + 'a'));
+            while (freq[i] > 1) {
+                ans[left++] = (char) ('a' + i);
+                ans[right--] = (char) ('a' + i);
+                freq[i] -= 2;
             }
 
-            if (freq[i] % 2 == 1) {
-                mid.append((char) (i + 'a'));
+            if (freq[i] == 1) {
+                ans[s.length() / 2] = (char) ('a' + i);
             }
         }
 
-        String right = new StringBuilder(left).reverse().toString();
-
-        return left.toString() + mid.toString() + right;
+        return new String(ans);
     }
 }
