@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishtakkar/LEETCODE19/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -38,8 +39,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tanishtakkar/LEETCODE19/tree/master/0037-sudoku-solver) |
+| [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tanishtakkar/LEETCODE19/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
