@@ -1,55 +1,36 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
 
-        int n = heights.length;
-
-        int[] prev = new int[n];
-        int[] next = new int[n];
-
         Stack<Integer> st = new Stack<>();
-
-        // Previous Smaller
-        for (int i = 0; i < n; i++) {
-
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
-            }
-
-            if (st.isEmpty())
-                prev[i] = -1;
-            else
-                prev[i] = st.peek();
-
-            st.push(i);
-        }
-
-        st.clear();
-
-        // Next Smaller
-        for (int i = n - 1; i >= 0; i--) {
-
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
-            }
-
-            if (st.isEmpty())
-                next[i] = n;
-            else
-                next[i] = st.peek();
-
-            st.push(i);
-        }
-
-        // Calculate maximum area
         int max = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i <= heights.length; i++) {
 
-            int width = next[i] - prev[i] - 1;
+            int curr = 0;
 
-            int area = heights[i] * width;
+            if (i < heights.length)
+                curr = heights[i];
 
-            max = Math.max(max, area);
+            while (!st.isEmpty() && heights[st.peek()] >= curr) {
+
+                int h = heights[st.pop()];
+
+                int nse = i;
+                int pse;
+
+                if (st.isEmpty())
+                    pse = -1;
+                else
+                    pse = st.peek();
+
+                int width = nse - pse - 1;
+
+                int area = h * width;
+
+                max = Math.max(max, area);
+            }
+
+            st.push(i);
         }
 
         return max;
