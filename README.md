@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/tanishtakkar/LEETCODE19/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/tanishtakkar/LEETCODE19/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
