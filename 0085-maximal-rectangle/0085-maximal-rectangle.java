@@ -31,21 +31,21 @@ class Solution {
         return max;
     }
     public int maximalRectangle(char[][] matrix) {
-        int ans=0;
-        int m=matrix.length;
-        int n=matrix[0].length;
-        int height[]=new int[n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        int rows=matrix.length;
+        int col= matrix[0].length;
+        int [] heights=new int[col];
+        int maxarea=0;
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<col;j++){
                 if(matrix[i][j]=='1'){
-                    height[j]++;
+                    heights[j]++;
                 }
                 else{
-                    height[j]=0;
+                    heights[j]=0;
                 }
             }
-            ans=Math.max(ans,largestRectangleArea(height));
+            maxarea=Math.max(maxarea,largestRectangleArea(heights));
         }
-        return ans;
+        return maxarea;
     }
 }
