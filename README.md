@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/tanishtakkar/LEETCODE19/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/tanishtakkar/LEETCODE19/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
