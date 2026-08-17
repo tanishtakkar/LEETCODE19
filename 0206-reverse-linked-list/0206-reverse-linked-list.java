@@ -21,13 +21,23 @@ class Solution {
         // }
         // head=prev;
         // return head;
-        if(head==null || head.next==null ){
-            return head;
+        /////////////////////////////////////////////
+        // if(head==null || head.next==null ){
+        //     return head;
+        // }
+        // ListNode x=reverseList(head.next);
+        // head.next.next=head;
+        // head.next=null;
+        // return x;
+        ////////////////////////////////////////
+        return reverseList(head, null);
+    }
+    public ListNode reverseList(ListNode curr, ListNode prev) {
+        if(curr==null){
+            return prev;
         }
-        ListNode x=reverseList(head.next);
-        head.next.next=head;
-        head.next=null;
-        return x;
-
+        ListNode n=curr.next;
+        curr.next=prev;
+        return reverseList(n,curr);
     }
 }
