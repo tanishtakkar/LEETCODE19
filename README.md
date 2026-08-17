@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tanishtakkar/LEETCODE19/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -85,10 +87,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanishtakkar/LEETCODE19/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tanishtakkar/LEETCODE19/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tanishtakkar/LEETCODE19/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanishtakkar/LEETCODE19/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tanishtakkar/LEETCODE19/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
