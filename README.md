@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tanishtakkar/LEETCODE19/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0085-maximal-rectangle) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishtakkar/LEETCODE19/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/tanishtakkar/LEETCODE19/tree/master/0234-palindrome-linked-list) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0085-maximal-rectangle) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
