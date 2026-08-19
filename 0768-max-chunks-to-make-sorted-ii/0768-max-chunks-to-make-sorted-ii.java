@@ -2,42 +2,25 @@ import java.util.*;
 
 class Solution {
     public int maxChunksToSorted(int[] arr) {
-        
-        int n = arr.length;
-        
-        // Create sorted copy
-        int[] sorted = arr.clone();
-        Arrays.sort(sorted);
-        
-        HashMap<Integer, Integer> map = new HashMap<>();
-        
-        int chunks = 0;
-        
-        for (int i = 0; i < n; i++) {
+        Stack<Integer> st = new Stack<>();
+
+        for (int num : arr) {
+
+            if (st.isEmpty() || num >= st.peek()) {
+                st.push(num);
+            } 
+            else {
             
-            // Original array element frequency +1
-            map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
-            
-            // Sorted array element frequency -1
-            map.put(sorted[i], map.getOrDefault(sorted[i], 0) - 1);
-            
-            
-            // If frequency becomes 0, remove it
-            if (map.get(arr[i]) == 0) {
-                map.remove(arr[i]);
-            }
-            
-            if (map.containsKey(sorted[i]) && map.get(sorted[i]) == 0) {
-                map.remove(sorted[i]);
-            }
-            
-            
-            // Both prefixes have exactly same elements
-            if (map.isEmpty()) {
-                chunks++;
+                int max = st.pop();
+
+                while (!st.isEmpty() && st.peek() > num) {
+                    st.pop();
+                }
+
+                st.push(max);
             }
         }
-        
-        return chunks;
+
+        return st.size();
     }
 }
