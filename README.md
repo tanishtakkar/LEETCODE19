@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tanishtakkar/LEETCODE19/tree/master/0234-palindrome-linked-list) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Monotonic Stack
@@ -124,12 +125,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
