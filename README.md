@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tanishtakkar/LEETCODE19/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0088-merge-sorted-array) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0088-merge-sorted-array) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishtakkar/LEETCODE19/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/tanishtakkar/LEETCODE19/tree/master/0234-palindrome-linked-list) |
