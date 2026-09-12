@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/tanishtakkar/LEETCODE19/tree/master/0037-sudoku-solver) |
+| [0075-sort-colors](https://github.com/tanishtakkar/LEETCODE19/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tanishtakkar/LEETCODE19/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishtakkar/LEETCODE19/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0085-maximal-rectangle) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanishtakkar/LEETCODE19/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0088-merge-sorted-array) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanishtakkar/LEETCODE19/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tanishtakkar/LEETCODE19/tree/master/0141-linked-list-cycle) |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tanishtakkar/LEETCODE19/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishtakkar/LEETCODE19/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishtakkar/LEETCODE19/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishtakkar/LEETCODE19/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
