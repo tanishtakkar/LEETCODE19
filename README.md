@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tanishtakkar/LEETCODE19/tree/master/0560-subarray-sum-equals-k) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanishtakkar/LEETCODE19/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishtakkar/LEETCODE19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tanishtakkar/LEETCODE19/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/tanishtakkar/LEETCODE19/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/tanishtakkar/LEETCODE19/tree/master/0567-permutation-in-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tanishtakkar/LEETCODE19/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishtakkar/LEETCODE19/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanishtakkar/LEETCODE19/tree/master/0098-validate-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tanishtakkar/LEETCODE19/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
