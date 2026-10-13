@@ -1,14 +1,12 @@
 
 class Solution {
-
     class Node {
         Node[] children = new Node[26];
-        int prefixCount = 0;
+        int count = 0;
     }
 
-    Node root = new Node();
-
     public int prefixCount(String[] words, String pref) {
+        Node root = new Node();
 
         for (String word : words) {
             Node curr = root;
@@ -16,13 +14,11 @@ class Solution {
             for (char ch : word.toCharArray()) {
                 int idx = ch - 'a';
 
-                if (curr.children[idx] == null) {
+                if (curr.children[idx] == null)
                     curr.children[idx] = new Node();
-                }
 
                 curr = curr.children[idx];
-
-                curr.prefixCount++;
+                curr.count++;
             }
         }
 
@@ -31,13 +27,12 @@ class Solution {
         for (char ch : pref.toCharArray()) {
             int idx = ch - 'a';
 
-            if (curr.children[idx] == null) {
+            if (curr.children[idx] == null)
                 return 0;
-            }
 
             curr = curr.children[idx];
         }
 
-        return curr.prefixCount;
+        return curr.count;
     }
 }
